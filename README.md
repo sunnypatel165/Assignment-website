@@ -1,2 +1,5 @@
 # Assignment-website
-This is a website i made as an interview assignment for a role of Co-Webmaster for ACM student chapter
+This is a website i made as an interview assignment for a role of Co-Webmaster for ACM student chapter. It was a randomly chosen site that was simple to replicate for a starter.
+
+Simple download, unzip and open sample.html
+Best viewed in: Google Chrome.
